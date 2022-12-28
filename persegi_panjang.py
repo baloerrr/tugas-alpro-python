@@ -1,0 +1,9 @@
+# Rena Jaya
+
+luas = float;
+panjang = float(input("Masukkan Panjang: "));
+lebar = float(input("Masukkan Lebar: "));
+
+luas = panjang * lebar;
+
+print("Luas: ", luas)
